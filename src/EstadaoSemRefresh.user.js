@@ -2,7 +2,7 @@
 // @name          Estadao sem auto-refresh
 // @author        Joao Medrado
 // @version       0.1
-// @namespace     http://www.joaomedrado.com
+// @namespace     http://joaomedrado.com
 // @description   Desabilita a atualizacao automatica nas paginas do estadao ( www.estadao.com.br )
 // @sourcecode    https://github.com/jcarlos/estadao-sem-refresh
 // @run-at        document-end
