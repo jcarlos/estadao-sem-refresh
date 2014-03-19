@@ -11,3 +11,5 @@ Para tornar a brincadeira mais interessante usei Jasmine para specs e JSHint par
 Para instalar é só arrastar o script para janela do Chrome, para deinstalar só ir na parte de extensões e remove-lo.
 
 Por enquanto só testei no Chrome, em breve versões para Firefox e Safari....
+
+[![Code Climate](https://codeclimate.com/github/jcarlos/estadao-sem-refresh.png)](https://codeclimate.com/github/jcarlos/estadao-sem-refresh)
